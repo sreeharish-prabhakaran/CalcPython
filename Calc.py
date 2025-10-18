@@ -1,5 +1,4 @@
-#This is a calculator project
-
+#This is a calculator project written in Python by Sreeharish Prabhakaran
 print (" ")
 print("************************")
 print("This is a python based calculator application")
@@ -19,7 +18,6 @@ print("3. Mul")
 print("4. Div")
 print("----------------------------------------------------")
 print (" ")
-
 while True:
     print (" ")
     choice = input("Enter your choice (1/2/3/4): ")
@@ -58,5 +56,4 @@ while True:
         print (" ")
         break
     else:
-
         print("Incorrect choice. Enter 1 or 2 or 3 or 4")

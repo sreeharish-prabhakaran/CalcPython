@@ -2,7 +2,7 @@
 
 print (" ")
 print("************************")
-print("This is a calculator app")
+print("This is a python based calculator application")
 print("************************")
 print (" ")
 val1 = input("Enter the 1st number: ")
@@ -58,4 +58,5 @@ while True:
         print (" ")
         break
     else:
+
         print("Incorrect choice. Enter 1 or 2 or 3 or 4")
